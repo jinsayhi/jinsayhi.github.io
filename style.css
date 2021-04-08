@@ -41,8 +41,8 @@ p {
   line-height: 2;
 }
 iframe {
-  float: left;
-  margin: 0 20px 20px 0;
+  float: center;
+  margin: 0, 20px,0,0;
 
   max-width: 100%;
 }
